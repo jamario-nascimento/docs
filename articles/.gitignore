@@ -1,0 +1,12 @@
+# Node/Angular
+node_modules/
+dist/
+.tmp/
+coverage/
+*.log
+# VSCode
+.vscode/*
+!.vscode/extensions.json
+# OS
+.DS_Store
+Thumbs.db
